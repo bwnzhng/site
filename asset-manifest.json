@@ -1,28 +1,35 @@
 {
   "files": {
     "main.css": "/site/static/css/main.433a390b.css",
-    "main.js": "/site/static/js/main.67e191c4.js",
+    "main.js": "/site/static/js/main.650603bc.js",
     "static/js/453.b05d8aa5.chunk.js": "/site/static/js/453.b05d8aa5.chunk.js",
+    "static/media/machine_design.mp4": "/site/static/media/machine_design.c3868a31dc3fea258876.mp4",
     "static/media/avatar.png": "/site/static/media/avatar.8359d0d900d998d7d49b.png",
-    "static/media/mock10.png": "/site/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/site/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/site/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/site/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/nanopositioner.png": "/site/static/media/nanopositioner.e51ed6443b909b302d95.png",
+    "static/media/tensile_bar.mp4": "/site/static/media/tensile_bar.6de32912a326568bd8c4.mp4",
+    "static/media/die_inspection.png": "/site/static/media/die_inspection.179a44c418c2ddbb05c0.png",
+    "static/media/confocal.png": "/site/static/media/confocal.0153611230e5926c8375.png",
+    "static/media/chmsl.png": "/site/static/media/chmsl.fe12a906d2ae97b4021e.png",
+    "static/media/accelerometer.png": "/site/static/media/accelerometer.8d87b14d79ba18868d92.png",
+    "static/media/accumulator.png": "/site/static/media/accumulator.3d9cfaf10b48d6f3cb80.png",
+    "static/media/cross_member.png": "/site/static/media/cross_member.59ddce1fae5886c3387a.png",
+    "static/media/raman_spectrometer.png": "/site/static/media/raman_spectrometer.2b77ebfbff1a19443c1c.png",
+    "static/media/rib_seg.png": "/site/static/media/rib_seg.347457e937c45052f0ca.png",
     "static/media/bg-light.png": "/site/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/site/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/site/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/site/static/media/mock06.ea816617e0d0fa0f63ca.png",
     "static/media/bg-dark.png": "/site/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/site/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/mock02.png": "/site/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/site/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/blood_pressure.png": "/site/static/media/blood_pressure.a51568fa9dfe3591c624.png",
+    "static/media/bruker.png": "/site/static/media/bruker.87dff5de5bafea55e27b.png",
+    "static/media/columbia.png": "/site/static/media/columbia.f6bcc33c9b1758b7ad6b.png",
+    "static/media/wake_forest.png": "/site/static/media/wake_forest.fc12c501d4f7069f493f.png",
+    "static/media/upenn.png": "/site/static/media/upenn.a65b20cc7a3c19fcaa60.png",
+    "static/media/gm.png": "/site/static/media/gm.4f7d816f0a216d5423bc.png",
     "index.html": "/site/index.html",
     "main.433a390b.css.map": "/site/static/css/main.433a390b.css.map",
-    "main.67e191c4.js.map": "/site/static/js/main.67e191c4.js.map",
+    "main.650603bc.js.map": "/site/static/js/main.650603bc.js.map",
     "453.b05d8aa5.chunk.js.map": "/site/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.433a390b.css",
-    "static/js/main.67e191c4.js"
+    "static/js/main.650603bc.js"
   ]
 }
