@@ -10,56 +10,68 @@ function Timeline() {
   return (
     <div id="history">
       <div className="items-container">
-        <h1>Career History</h1>
+        <h1>Work Experience</h1>
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="Aug 2026 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Graduate Research Assistant</h3>
+            <h4 className="vertical-timeline-element-subtitle">University of Pennsylvania</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Research & Development, Failure Analysis, Design of Experiments, Data Processing
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="Jul 2025 - Aug 2026"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Mechanical Hardware Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle">General Motors</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Technical Project Management, Mechanical Design, Prototyping, Testing, Validation
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="May 2024 - May 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Quality Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Bruker</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Automation, Full-stack Development, User Experience, Design, Product Development
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="May 2023 - Aug 2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Biomechanics Research Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Wake Forest University</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Scripting, Data Governance, Statistical Analysis, Data Visualization
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="May 2022 - May 2024"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Undergraduate Research Assistant</h3>
+            <h4 className="vertical-timeline-element-subtitle">Columbia University</h4>
+            <p>
+              Machine Learning, Mobile App Development, User Experience, Data Collection
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
